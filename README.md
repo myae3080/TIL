@@ -12,4 +12,4 @@ Javascript
 
 	Event
 	----------------
-	* [currentTarget vs target] (https://github.com/myae3080/TIL/blob/main/Javascript/Event/20210509_CurrentTarget_vs_Target.md)
+	* [currentTarget vs target] (https://github.com/myae3080/TIL/blob/main/Javascript/20210509_CurrentTarget_vs_Target.md)
