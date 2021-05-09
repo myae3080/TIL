@@ -23,7 +23,7 @@ const test = document.getElementById("test");
 
 test.addEventListener("click", () => {
 	console.log(event.currentTarget.tagName); 	// DIV
-	console.log(event.target.tagName);			// SPAN
+	console.log(event.target.tagName);		// SPAN
 });
 ```
 
