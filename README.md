@@ -9,6 +9,7 @@ Javascript
 * [Variable Declaration](https://github.com/myae3080/TIL/blob/main/Javascript/20210316_Variable_Declaration.md)
 * [Falsy](https://github.com/myae3080/TIL/blob/main/Javascript/20210318_Falsy.md)
 * [Callback](https://github.com/myae3080/TIL/blob/main/Javascript/20210323_Callback.md)
+
 	Event
 	----------------
-	* [CurrentTarget vs Target] (https://github.com/myae3080/TIL/blob/main/Javascript/Event/20210509_CurrentTarget_vs_Target.md)
+	* [currentTarget vs target] (https://github.com/myae3080/TIL/blob/main/Javascript/Event/20210509_CurrentTarget_vs_Target.md)
